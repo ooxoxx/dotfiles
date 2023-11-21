@@ -7,7 +7,11 @@ saga.setup({
     border = 'rounded',
     colors = {
       normal_bg = '#002b36'
-    }
+    },
+  },
+  lightbulb = {
+    sign = false,
+    debounce = 1500,
   }
 })
 
