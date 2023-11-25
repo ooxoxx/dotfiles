@@ -5,6 +5,6 @@
 **/.DS_Store
 **.log
 
-!nvim/*
-!tmux/*
+!nvim/
+!tmux/
 !karabiner
